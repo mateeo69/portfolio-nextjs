@@ -102,7 +102,7 @@ export const dataPortfolio = [
     {
         id: 1,
         title: "Symplex",
-        image: "/symplex.png",
+        image: "/Symplex.png",
         urlGithub: "https://github.com/mateeo69/symplex-entorno-local"
     },
     {
